@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleScanner()
+comment0.text=\r\n\ Create\ a\ scanner\ to\ read\ input.\r\n
+comment1.params=question
+comment1.target=java.lang.String\ getInput(java.lang.String)
+comment1.text=\r\n\ Get\ input\ from\ the\ user\ by\ printing\ the\ question\ given\ as\ an\ argument,\ and\ return\ that\ input.\r\n\ @param\ question\ \ A\ string\ (usually\ a\ sentence)\ that\ will\ be\ printed\ to\ ask\ the\ user\ to\ enter\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ input\r\n
+numComments=2
